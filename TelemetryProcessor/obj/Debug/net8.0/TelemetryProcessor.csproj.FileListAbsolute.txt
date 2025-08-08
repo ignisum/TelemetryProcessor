@@ -1,0 +1,14 @@
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\bin\Debug\net8.0\TelemetryProcessor.exe
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\bin\Debug\net8.0\TelemetryProcessor.deps.json
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\bin\Debug\net8.0\TelemetryProcessor.runtimeconfig.json
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\bin\Debug\net8.0\TelemetryProcessor.dll
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\bin\Debug\net8.0\TelemetryProcessor.pdb
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\TelemetryProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\TelemetryProcessor.AssemblyInfoInputs.cache
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\TelemetryProcessor.AssemblyInfo.cs
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\TelemetryProcessor.csproj.CoreCompileInputs.cache
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\TelemetryProcessor.dll
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\refint\TelemetryProcessor.dll
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\TelemetryProcessor.pdb
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\TelemetryProcessor.genruntimeconfig.cache
+C:\Users\logos\source\repos\TelemetryProcessor\TelemetryProcessor\obj\Debug\net8.0\ref\TelemetryProcessor.dll
